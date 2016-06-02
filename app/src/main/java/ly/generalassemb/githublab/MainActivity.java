@@ -10,12 +10,20 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+
 }
 
 public class Car.java{
+        String make;
+        String model;
+        String engine;
 
         }
 public class Main.java{
-        public static void main
+public static void main
 
         }
+
+public class Garage.java{}
+
